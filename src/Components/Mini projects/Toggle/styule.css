@@ -1,0 +1,43 @@
+.buttonsclass{
+    background-color: rgb(205, 189, 189);
+    width: 100px;
+    height: 30px;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    -webkit-transition: .7s;
+    transition: .7s;
+     }
+.btns{
+    height:30px;
+    width: 30px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    transition: .7s;
+    -webkit-transition: .7s;
+    -moz-transition: .7s;
+    -ms-transition: .7s;
+    -o-transition: .7s;
+   
+}
+.on{
+     transform: translateX(50px);
+    -webkit-transform: translateX(50px);
+    -moz-transform: translateX(50px);
+    -ms-transform: translateX(50px);
+    -o-transform: translateX(50px);
+    background-color: green;
+}
+.off{
+     transform: translateX(0px);
+     -webkit-transform: translateX(0px);
+     -moz-transform: translateX(0px);
+     -ms-transform: translateX(0px);
+     -o-transform: translateX(0px);
+     background-color: red;
+}

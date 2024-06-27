@@ -1,0 +1,83 @@
+[
+    {
+      "name": "Stranger Things",
+      "id": "1",
+      "img_url": "https://example.com/stranger-things.jpg",
+      "rating": "8.7",
+      "description": "A group of young friends in a small town uncover a series of supernatural mysteries.",
+      "cast": ["Winona Ryder", "David Harbour", "Finn Wolfhard"]
+    },
+    {
+      "name": "The Crown",
+      "id": "2",
+      "img_url": "https://example.com/the-crown.jpg",
+      "rating": "8.6",
+      "description": "A historical drama about the reign of Queen Elizabeth II.",
+      "cast": ["Claire Foy", "Olivia Colman", "Matt Smith"]
+    },
+    {
+      "name": "Money Heist",
+      "id": "3",
+      "img_url": "https://example.com/money-heist.jpg",
+      "rating": "8.3",
+      "description": "A criminal mastermind plans the biggest heist in recorded history.",
+      "cast": ["Úrsula Corberó", "Álvaro Morte", "Itziar Ituño"]
+    },
+    {
+      "name": "Bridgerton",
+      "id": "4",
+      "img_url": "https://example.com/bridgerton.jpg",
+      "rating": "7.3",
+      "description": "A romantic drama set in Regency-era London focusing on the powerful Bridgerton family.",
+      "cast": ["Phoebe Dynevor", "Regé-Jean Page", "Julie Andrews"]
+    },
+    {
+      "name": "The Witcher",
+      "id": "5",
+      "img_url": "https://example.com/the-witcher.jpg",
+      "rating": "8.2",
+      "description": "A mutated monster-hunter for hire embarks on perilous adventures.",
+      "cast": ["Henry Cavill", "Anya Chalotra", "Freya Allan"]
+    },
+    {
+      "name": "Narcos",
+      "id": "6",
+      "img_url": "https://example.com/narcos.jpg",
+      "rating": "8.8",
+      "description": "The true story of Colombia's infamously violent drug cartels.",
+      "cast": ["Wagner Moura", "Pedro Pascal", "Boyd Holbrook"]
+    },
+    {
+      "name": "Black Mirror",
+      "id": "7",
+      "img_url": "https://example.com/black-mirror.jpg",
+      "rating": "8.8",
+      "description": "A series of stand-alone dramas that explore tech dystopias.",
+      "cast": ["Daniel Lapaine", "Hannah John-Kamen", "Michaela Coel"]
+    },
+    {
+      "name": "Ozark",
+      "id": "8",
+      "img_url": "https://example.com/ozark.jpg",
+      "rating": "8.4",
+      "description": "A financial planner relocates his family to the Ozarks and becomes a money launderer.",
+      "cast": ["Jason Bateman", "Laura Linney", "Julia Garner"]
+    },
+    {
+      "name": "Lucifer",
+      "id": "9",
+      "img_url": "https://example.com/lucifer.jpg",
+      "rating": "8.1",
+      "description": "The Devil relocates to Los Angeles and helps the LAPD solve crimes.",
+      "cast": ["Tom Ellis", "Lauren German", "Kevin Alejandro"]
+    },
+    {
+      "name": "You",
+      "id": "10",
+      "img_url": "https://example.com/you.jpg",
+      "rating": "7.7",
+      "description": "A dangerously charming man goes to extreme measures to insert himself into the lives of those he is obsessed with.",
+      "cast": ["Penn Badgley", "Elizabeth Lail", "Victoria Pedretti"]
+    }
+  ]
+  
