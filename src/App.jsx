@@ -1,5 +1,6 @@
 import "./App.css";
-import Ex from "./Components/Hoocks/UseRef/Ex";
+// import Ex from "./Components/Hoocks/UseRef/Ex";
+import { DarkLight, ThemeProvider } from "./Components/hooks/contextApi/DarkLight";
 // import Index from "./Components/Hoocks/UuseEffect/Index";
 // import Index, { ReactUseEffect } from "./Components/Hoocks/UuseEffect/Index";
 // import Todo from "./Components/Mini projects/Todo list/Todo";
@@ -39,7 +40,11 @@ function App() {
       {/* <ReactUseEffect /> */}
       {/* <UseChalleneg/> */}
       {/* <Index /> */}
-      <Ex/>
+      {/* <Ex/> */}
+
+      <ThemeProvider>
+        <DarkLight />
+      </ThemeProvider>
     </>
   );
 }
